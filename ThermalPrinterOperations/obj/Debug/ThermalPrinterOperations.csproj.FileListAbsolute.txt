@@ -1,0 +1,9 @@
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\bin\Debug\ThermalPrinterOperations.exe.config
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\bin\Debug\ThermalPrinterOperations.exe
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\bin\Debug\ThermalPrinterOperations.pdb
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\obj\Debug\ThermalPrinterOperations.csprojResolveAssemblyReference.cache
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\obj\Debug\ThermalPrinterOperations.Form1.resources
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\obj\Debug\ThermalPrinterOperations.Properties.Resources.resources
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\obj\Debug\ThermalPrinterOperations.csproj.GenerateResource.Cache
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\obj\Debug\ThermalPrinterOperations.exe
+C:\RidvanBelgeler\PROJECTS\ThermalPrinterOperations\ThermalPrinterOperations\obj\Debug\ThermalPrinterOperations.pdb
